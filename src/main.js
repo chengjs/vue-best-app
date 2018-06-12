@@ -3,6 +3,10 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+/*--- normalize初始化引入 --*/
+import 'normalize.css'
+
+
 
 Vue.config.productionTip = false
 
